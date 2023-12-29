@@ -1,4 +1,7 @@
-# odin-recipes
+# Recipes
  Practicing my web development skills
-https://www.theodinproject.com/lessons/foundations-recipes
-https://academy.jetbrains.com/?tag=JavaScript
+<ul>
+  <li>https://www.theodinproject.com/lessons/foundations-recipes</li>
+  <li>https://academy.jetbrains.com/?tag=JavaScript</li>
+</ul>
+
